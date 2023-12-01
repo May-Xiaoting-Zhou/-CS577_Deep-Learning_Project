@@ -1,4 +1,9 @@
 # -CS577_Deep-Learning_Project
-1. Proposal
-2.  Intermediate project report
-3.  Final project report
+Team:
+@Yi Shi 
+@Xiaoting Zhou
+@Chieh Jui Lee
+
+Environment:
+Anaconda: 23.3.1
+python: 3.11.0
